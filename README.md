@@ -6,7 +6,7 @@ I'm Sameer Pokharlel. I'm an 11th-grade student pursuing Technical Education mor
 - 🌱 I’m currently learning ... Node js
 - 👯 I’m looking to collaborate on ... Node js
 - 🤔 I’m looking for help with ... Mongodb
-- 💬 Ask me about ... Flutter and mobile developemt
+- 💬 Ask me about ... anything 
 - 📫 How to reach me: ... [ youtube channel ](https://www.youtube.com/channel/UCuViWv2p29IcS4EPMoDz6ew)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am Half Finish
